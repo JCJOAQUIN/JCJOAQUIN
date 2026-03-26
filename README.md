@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos
 
-<!--
-**JCJOAQUIN/JCJOAQUIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer especializado en .NET, Angular y SQL Server.
 
-Here are some ideas to get you started:
+Me enfoco en construir aplicaciones web completas, desde interfaces dinámicas hasta lógica de negocio y procesamiento eficiente de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Experiencia en:
+- Desarrollo con .NET (C#)
+- Frontend moderno con Angular
+- Integración de sistemas mediante APIs REST
+- Optimización de consultas y procesos con SQL Server
+- Automatización y procesamiento de datos (ETL)
+
+⚡ He logrado optimizar procesos críticos reduciendo tiempos de ejecución de 1 hora a 10 minutos.
+
+## 🛠️ Tecnologías
+- Backend: .NET, C#
+- Frontend: Angular, TypeScript, JavaScript
+- Base de datos: SQL Server, MySQL
+- Otros: Git, Azure DevOps, Postman
+
+## 📂 Proyectos destacados
+🔹 Próximamente...
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/iscjovc/
+- Email: josecarlos19882546@gmail.com
