@@ -21,7 +21,6 @@ Me enfoco en construir aplicaciones web completas, desde interfaces dinámicas h
 
 ## 📂 Proyectos destacados
 ```markdown
----
 ### 🚀 ETL Pipeline - Python & SQL Server
 Pipeline de ingeniería de datos que integra APIs y archivos Excel para procesar, transformar y cargar información en SQL Server.
 
