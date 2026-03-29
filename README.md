@@ -1,4 +1,4 @@
-# 👋 Hola, soy Carlos
+# 👋 Hola, soy Jose Carlos
 
 💻 Fullstack Developer especializado en .NET, Angular y SQL Server.
 
