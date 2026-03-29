@@ -22,6 +22,21 @@ Me enfoco en construir aplicaciones web completas, desde interfaces dinámicas h
 ## 📂 Proyectos destacados
 🔹 Próximamente...
 
+
+```markdown
+## 📂 Proyectos destacados
+---
+### 🚀 ETL Pipeline - Python & SQL Server
+Pipeline de ingeniería de datos que integra APIs y archivos Excel para procesar, transformar y cargar información en SQL Server.
+
+- ⚙️ ETL completo (Extract, Transform, Load)
+- 📊 Procesamiento de datos con pandas
+- 🔗 Integración con APIs externas
+- 🗄️ Carga eficiente con TVPs
+
+👉 [Ver proyecto](https://github.com/JCJOAQUIN/etl-pipeline-python-sqlserver)
+```
+
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/iscjovc/
 - Email: josecarlos19882546@gmail.com
