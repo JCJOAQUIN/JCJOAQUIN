@@ -19,10 +19,6 @@ Me enfoco en construir aplicaciones web completas, desde interfaces dinámicas h
 - Base de datos: SQL Server, MySQL
 - Otros: Git, Azure DevOps, Postman
 
-## 📂 Proyectos destacados
-🔹 Próximamente...
-
-
 ```markdown
 ## 📂 Proyectos destacados
 ---
