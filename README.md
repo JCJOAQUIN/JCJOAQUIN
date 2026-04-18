@@ -31,8 +31,9 @@ Pipeline de ingeniería de datos que integra APIs y archivos Excel para procesar
 - 🔗 Integración con APIs externas
 - 🗄️ Carga eficiente con TVPs
 
-👉 [Ver proyecto](https://github.com/JCJOAQUIN/etl-pipeline-python-sqlserver)
+
 ```
+👉 [Ver proyecto](https://github.com/JCJOAQUIN/etl-pipeline-python-sqlserver)
 
 ---
 
@@ -47,8 +48,9 @@ Aplicación web fullstack para la gestión de rentas, actualmente en desarrollo 
 - 🔐 Manejo de autenticación y lógica de negocio
 - 📊 Base para dashboard y reportes
 
-👉 [Ver proyecto](https://github.com/JCJOAQUIN/rental-management-platform)
+
 ```
+👉 [Ver proyecto](https://github.com/JCJOAQUIN/rental-management-platform)
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/iscjovc/
